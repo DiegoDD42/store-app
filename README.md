@@ -9,7 +9,7 @@
 
 ### Clonar o projeto
 ```bash
-git clone URL
+git clone https://github.com/DiegoDD42/store-app.git
 cd store-app
 ```
 
